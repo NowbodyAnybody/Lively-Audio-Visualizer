@@ -6,7 +6,7 @@ Audio Visualizer for lively wallpaper
 # How to setup
 Download the "audio visualizer.zip" file and drag and drop it into lively
 
-If there are only a few bars showing you may need to go into settings -> sound -> Output -> Device Properties -> Additional device properties -> Advanced and change the default Format to one with a lower Hz rate (the bit rate doesn’t matter).
+If there are only a few bars showing you may need to go into settings -> sound -> Output -> Device Properties -> Additional device properties -> Advanced and change the default Format to one with a lower Hz value (the bit rate doesn’t matter).
 
 If it is displaying nothing please write an issue or a comment on reddit.
 
