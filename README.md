@@ -3,6 +3,8 @@ Audio Visualizer for lively wallpaper
 
 ![](resources/preview.gif)
 
+![](resources/backgroundImg.gif)
+
 # How to setup
 Download the "audio visualizer.zip" file and drag and drop it into lively.
 
